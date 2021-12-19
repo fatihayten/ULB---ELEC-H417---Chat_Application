@@ -4,7 +4,7 @@ import hashlib  # To encrypt passwords
 import bcrypt
 import sys
 import re
-
+import cv2
 # password reference : https://howtodoinjava.com/python/modules/python-bcrypt-hash-password/
 # password check : https://stackoverflow.com/questions/41117733/validation-of-a-password-python
 HEADER_LENGTH = 10
