@@ -35,5 +35,11 @@ We have used the following libraries in the project:
  
  Client should be careful while writing password since, the server check his password and username.
  
- Now open another client.py. Register and login with a diifere
+ Now open another client.py. Register and login with a diiferent username.
  
+Program is not working properly so you need to follow  these steps to send message between clients. Let's say first username is client1 and second user is client2.
+> On client1 window, type client2 and enter.
+> On client2 window, type client1 and enter.
+Press enter on client1 command window and then, press enter on client2. This is necessary for public key sharing.
+
+
