@@ -31,12 +31,17 @@ You can check the following link to see how to use these codes and run the appli
  
  then, choose your user name and password. Your password should contain at least 8 characters, a capital letter and a number otherwise, the user starts from beginning.
  
+  ![](figures/registerok.PNG)
+
+ 
  In order to login this time type 
  
  - l  
  Enter username and password.
  
  Client should be careful while writing password since, the server check his password and username.
+ 
+ ![](figures/loginok.PNG)
  
  Now open another client.py. Register and login with a diiferent username.
  
@@ -60,4 +65,5 @@ Write your message.
 
 - 0
 
+ ![](figures/cfatih.PNG) ![](figures/ctekin.PNG)
 
