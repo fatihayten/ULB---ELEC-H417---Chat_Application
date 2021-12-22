@@ -64,6 +64,3 @@ Write your message.
 > On client2 window press
 
 - 0
-
- ![](figures/cfatih.PNG) ![](figures/ctekin.PNG)
-
