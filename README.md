@@ -5,7 +5,7 @@ This repository is created to represent our project work. The repository include
 You can check the following link to see how to use these codes and run the application: https://www.youtube.com/watch?v=eVGEea7adDM
 
 ### Used Compiler & Compatibility
-Pycharm 2021.2.2 (community Edition) is used throughout this project. We highly recomemmend you to use the same or most similar version. Please check Google to learn how to import libraries or you can watch the following video: https://www.youtube.com/watch?v=KEIvXwUm8iE
+Pycharm 2021.2.2 (community Edition) is used throughout this project. We highly recommended you to use the same or most similar version. Please check Google to learn how to import libraries or you can watch the following video: https://www.youtube.com/watch?v=KEIvXwUm8iE
 ### Used Libaries
 
 We have used the following libraries in the project:
