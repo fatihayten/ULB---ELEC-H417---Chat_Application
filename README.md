@@ -45,4 +45,16 @@ Program is not working properly so you need to follow  these steps to send messa
 
 Press enter on client1 command window and then, press enter on client2. This is necessary for public key sharing.
 
+In order to send message from client1 to client to;
+
+> On client1 window press
+
+- 1
+
+Write your message.
+
+> On client2 window press
+
+- 0
+
 
