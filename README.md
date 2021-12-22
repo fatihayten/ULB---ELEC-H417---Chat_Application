@@ -11,9 +11,16 @@ The client side handles all communication process between the client and also, b
  
  The message is {'Press "l" to log in or press "r" to new registration or press "c" to close the connection:'}. Now, we are new user so we need to register first. In order to register write;
  
- r 
+ - r 
  
  then, choose your user name and password. Your password should contain at least 8 characters, a capital letter and a number otherwise, the user starts from beginning.
  
+ In order to login this time type 
  
+ - l  
+ Enter username and password.
+ 
+ Client should be careful while writing password since, the server check his password and username.
+ 
+ Now open another client.py. Register and login with a diifere
  
