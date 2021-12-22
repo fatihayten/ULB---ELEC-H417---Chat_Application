@@ -2,10 +2,11 @@
 
 ## Intro
 This repository is created to represent our project work. The repository includes server.py, client.py, the project report and read.me file.
-You can check the following link to see how to use these codes and run the application: https://www.youtube.com/watch?v=eVGEea7adDM
+
 
 ### Used Compiler & Compatibility
 Pycharm 2021.2.2 (community Edition) is used throughout this project. We highly recommended you to use the same or most similar version. Please check Google to learn how to import libraries or you can watch the following video: https://www.youtube.com/watch?v=KEIvXwUm8iE
+In both server.py and client.py files, a variable 'IP' is used. It is the IPv4 address of my PC. To not face with an error, you should change this variable with your own IP address. You can learn it by typing "ipconfig" on Windows PCs or "ifconfig" on Linux based PCs.
 ### Used Libaries
 
 We have used the following libraries in the project:
@@ -18,6 +19,8 @@ We have used the following libraries in the project:
 
 
 ## How to use
+You can check the following link to see how to use these codes and run the application: https://www.youtube.com/watch?v=eVGEea7adDM
+ 
  Order of the program starts with running the server code server.py.
  
  After the server get ready, user can open the client code cliet.py. 
