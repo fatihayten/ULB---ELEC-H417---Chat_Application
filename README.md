@@ -77,4 +77,4 @@ Write your message.
 - https://howtodoinjava.com/python/modules/python-bcrypt-hash-password/
 - https://www.geeksforgeeks.org/python-program-to-convert-a-list-to-string/
 - https://www.geeksforgeeks.org/python-get-dictionary-keys-as-a-list/
-- https: // www.techwithtim.net / tutorials / socket - programming /
+- https://www.techwithtim.net/tutorials/socket-programming/
