@@ -64,3 +64,17 @@ Write your message.
 > On client2 window press
 
 - 0
+
+## References
+- https://pythonprogramming.net/client-chatroom-sockets-tutorial-python-3/?completed=/server-chatroom-sockets-tutorial-python-3/
+- https://medium.com/@sadatnazrul/diffie-hellman-key-exchange-explained-python-8d67c378701c
+- https://medium.com/@sadatnazrul/diffie-hellman-key-exchange-explained-python-8d67c378701c
+- https://howtodoinjava.com/python/modules/python-bcrypt-hash-password/
+- https://stackoverflow.com/questions/41117733/validation-of-a-password-python
+- https://pythonprogramming.net/server-chatroom-sockets-tutorial-python-3/
+- https://pythonprogramming.net/server-chatroom-sockets-tutorial-python-3/
+- https://stackoverflow.com/questions/41117733/validation-of-a-password-python
+- https://howtodoinjava.com/python/modules/python-bcrypt-hash-password/
+- https://www.geeksforgeeks.org/python-program-to-convert-a-list-to-string/
+- https://www.geeksforgeeks.org/python-get-dictionary-keys-as-a-list/
+- https: // www.techwithtim.net / tutorials / socket - programming /
