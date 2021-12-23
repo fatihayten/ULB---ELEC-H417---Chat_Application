@@ -19,7 +19,7 @@ We have used the following libraries in the project:
 
 
 ## How to use
-You can check the following link to see how to use these codes and run the application: https://www.youtube.com/watch?v=eVGEea7adDM
+You can check the following link to see how to use these codes and run the application: https://youtu.be/8cMZI310ZVo
  
  Order of the program starts with running the server code server.py.
  
