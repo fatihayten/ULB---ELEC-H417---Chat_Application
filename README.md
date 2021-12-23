@@ -7,7 +7,7 @@ This repository is created to represent our project work. The repository include
 ### Used Compiler & Compatibility
 Pycharm 2021.2.2 (community Edition) is used throughout this project. We highly recommended you to use the same or most similar version. Please check Google to learn how to import libraries or you can watch the following video: https://www.youtube.com/watch?v=KEIvXwUm8iE
 In both server.py and client.py files, a variable 'IP' is used. It is the IPv4 address of my PC. To not face with an error, you should change this variable with your own IP address. You can learn it by typing "ipconfig" on Windows PCs or "ifconfig" on Linux based PCs.
-### Used Libaries
+### Used Libraries
 
 We have used the following libraries in the project:
 - random: To select random keys for clients
